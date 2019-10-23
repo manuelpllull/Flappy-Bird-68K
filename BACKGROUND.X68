@@ -21,7 +21,3 @@ BACKGPLOT
             
             MOVEM.W (A7)+,D1-D4
             RTS
-*~Font name~Courier New~
-*~Font size~10~
-*~Tab type~1~
-*~Tab size~4~
